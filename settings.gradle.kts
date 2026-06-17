@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IsalmiC38Online"
+rootProject.name = "IslamicApp"
 include(":app")
