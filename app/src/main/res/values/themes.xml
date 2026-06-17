@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IsalmiC38Online" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.IsalmiC38Online" parent="Base.Theme.IsalmiC38Online" />
+</resources>
